@@ -1,0 +1,24 @@
+.introParagraph{
+    background-color: lightgray;
+    border: 3px solid darkgray;
+    padding: 10px;
+    padding: 3%;
+    margin: 0%;
+}
+.introBox{
+    text-align: center;
+    width: 1000px;
+    border:10px darkblue;
+    padding: 3%;
+    margin: auto;
+}
+.introPicture{
+    width: auto;
+    height: 600px;
+    float: left;
+    padding: 0%;
+    margin: 0%;
+}
+address{
+    text-align: center;
+}
