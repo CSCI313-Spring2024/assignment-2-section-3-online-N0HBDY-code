@@ -1,16 +1,17 @@
-.introParagraph{
+.paragraph-body{
     background-color: lightgray;
     border: 3px solid darkgray;
     padding: 10px;
     padding: 3%;
     margin: 0%;
 }
-.introBox{
+.mainBox{
     text-align: center;
     width: 1000px;
     border:10px darkblue;
-    padding: 3%;
+    padding: 0%;
     margin: auto;
+
 }
 .introPicture{
     width: auto;
@@ -18,7 +19,16 @@
     float: left;
     padding: 0%;
     margin: 0%;
+    border: 20px;
+    border-color: black;
+    border-style: groove;
 }
 address{
     text-align: center;
 }
+p{
+    font-family: "Atkinson Hyperlegible Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
